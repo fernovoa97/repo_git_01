@@ -16,10 +16,10 @@ public class Menu extends javax.swing.JFrame {
     /**
      * Creates new form Menu
      */
-    public Menu() {
+    /*public Menu() {
         initComponents();
         this.setLocationRelativeTo(null);
-    }
+    }*/
 
     /**
      * This method is called from within the constructor to initialize the form.
